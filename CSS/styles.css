@@ -1,0 +1,18 @@
+body{
+background-color: plum;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: steelblue;
+border-width: 8px;
+width: 40%
+}
+
+h1{
+color: #72966F;
+}
+h3{
+color: darkslategrey;
+}
